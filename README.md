@@ -42,9 +42,9 @@
 
 
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
-- [Audio Fingerprinting: Getting Started Guide](roshaansiddiqui.com)
+<!-- - [Audio Fingerprinting: Getting Started Guide](roshaansiddiqui.com) -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
