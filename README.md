@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer!
 - 🖥️ I’m currently working on an interactive robot builder simulation to teach kids about technical concepts
-- 😷 I’m currently in a cave practicing social distancing and also technical coding interviews 
+- 😷 Operating from a cave practicing technical coding interviews and social distancing
 - 🥅 2020 Goals: Write about things I find facinating and contribute more to Open Source projects
 - ⚡ Fun fact: I love riding electric skateboards and working out
 
