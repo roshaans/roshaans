@@ -1,10 +1,9 @@
 ### Hi there, I'm Roshaan 👋
 
 ## I'm a Software Developer!
-- 🖥️ I’m currently working on an interactive robot builder simulation to teach kids about technical concepts
-- 😷 Operating from a cave practicing technical coding interviews and social distancing
-- 🥅 2020 Goals: Write about things I find facinating and contribute more to Open Source projects
-- ⚡ Fun fact: I love riding electric skateboards and working out
+- 🖥️ Currently hacking on Solana DeFi Projects 🚀
+- 🥅 2022 Goals: Attend more tech conferences, learn new skills, and be healthier developer :') 
+- ⚡ Fun fact: I love attenidng  and cafe hopping
 
 ### Connect with me:
 
