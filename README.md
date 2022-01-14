@@ -3,7 +3,6 @@
 ## I'm a Software Developer!
 - 🖥️ Currently hacking on Solana DeFi Projects 🚀
 - 🥅 2022 Goals: Attend more tech conferences, learn new skills, and be healthier developer :') 
-- ⚡ Fun fact: I love attenidng  and cafe hopping
 
 ### Connect with me:
 
